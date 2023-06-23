@@ -4,9 +4,9 @@
 - 👨‍🎓 Estudante de Engenharia de Software. 
 - 👨‍💻 Aprendendo Java.
 
-<div>
+
 ![Gabriel Status](https://github-readme-stats.vercel.app/api?username=gabrielviniciusds&show_icons=true&theme=dark)
-</div>
+
 
 <br>
 
