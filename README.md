@@ -1,9 +1,9 @@
-### Bem vindo ao meu perfil, pode me chamar de Gabriel Vinicius! 
+### Bem vindo ao meu perfil! 
 Sou estudante de Engenharia de Software. 
 
-![Gabriel Status](https://github-readme-stats.vercel.app/api?username=gabrielviniciusds&show_icons=true&theme=darkgreen)
+![Gabriel Status](https://github-readme-stats.vercel.app/api?username=gabrielviniciusds&show_icons=true&theme=dark)
 
-Tecnologias que eu já pratiquei;
+Tecnologias que eu já pratiquei ;) 
 
 <div style="display: inline_block"><br/>
 
@@ -21,6 +21,8 @@ Tecnologias que eu já pratiquei;
 
 </div><br/>
 
-Minhas redes sociais;
+Minhas redes sociais
 
 [![Linkedin] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vinicius-b9093b205/)
+
+[![Instagram](https://img.shields.io/badge/Instagram=E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/gabrieviniciuseng)
