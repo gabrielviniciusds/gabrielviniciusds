@@ -1,10 +1,10 @@
-### Bem vindo ao meu perfil, 
+### Bem vindo ao meu perfil! 
 Sou estudante de Engenharia de Software. 
 
 ![Gabriel Status](https://github-readme-stats.vercel.app/api?username=gabrielviniciusds&show_icons=true&theme=dark)
 
 <br>
-### Tecnologias que eu já pratiquei!
+Tecnologias que eu já pratiquei:
 
 <div style="display: inline_block"><br/>
 
@@ -24,6 +24,6 @@ Sou estudante de Engenharia de Software.
 
 </br>
 
-Acesse meu Linkedin
+Acesse meu Linkedin:
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vinicius-b9093b205/)
