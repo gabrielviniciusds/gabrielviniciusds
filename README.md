@@ -3,7 +3,7 @@
 
 - 👨‍🎓 Estudante de Engenharia de Software. 
 - 👨‍💻 Aprendendo Java.
-- 🚀 Atualmente em um Bootcamp de AWS+Nexa.
+- 🚀 Atualmente em um Bootcamp de nuvem AWS.
 
 <hr>
 
