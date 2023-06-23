@@ -1,10 +1,12 @@
-### Bem vindo ao meu perfil! 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vinicius-b9093b205/)
+### Bem vindo ao meu perfil! Sou Gabriel Vinicius
 
-Sou estudante de Engenharia de Software. 
 
+- 👨‍🎓 Estudante de Engenharia de Software. 
+- 👨‍💻 Aprendendo Java.
+
+<div>
 ![Gabriel Status](https://github-readme-stats.vercel.app/api?username=gabrielviniciusds&show_icons=true&theme=dark)
-
+</div>
 
 <br>
 
@@ -25,4 +27,8 @@ Sou estudante de Engenharia de Software.
 
 </br>
 
+<div>
 
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vinicius-b9093b205/)
+
+</div>
