@@ -4,7 +4,7 @@ Sou estudante de Engenharia de Software.
 ![Gabriel Status](https://github-readme-stats.vercel.app/api?username=gabrielviniciusds&show_icons=true&theme=dark)
 
 <br>
-Tecnologias que eu já pratiquei:
+Tecnologias que eu pratico ou já pratiquei:
 
 <div style="display: inline_block"><br/>
 
