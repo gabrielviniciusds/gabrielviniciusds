@@ -3,7 +3,8 @@ Sou estudante de Engenharia de Software.
 
 ![Gabriel Status](https://github-readme-stats.vercel.app/api?username=gabrielviniciusds&show_icons=true&theme=dark)
 
-Tecnologias que eu já pratiquei ;) 
+<br>
+Tecnologias que eu já pratiquei
 
 <div style="display: inline_block"><br/>
 
@@ -21,6 +22,7 @@ Tecnologias que eu já pratiquei ;)
 
 </div><br/>
 
+</br>
 Minhas redes sociais
 
 [![Linkedin] (https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vinicius-b9093b205/)
