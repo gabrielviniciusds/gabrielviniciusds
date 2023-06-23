@@ -1,7 +1,9 @@
 ### Bem vindo ao meu perfil, pode me chamar de Gabriel Vinicius! 
 Sou estudante de Engenharia de Software. 
 
-![Gabriel Status](https://github-readme-stats.vercel.app/api?username=gabrielviniciusds&show_icons=true&theme=dracula)
+![Gabriel Status](https://github-readme-stats.vercel.app/api?username=gabrielviniciusds&show_icons=true&theme=darkgreen)
+
+Tecnologias que eu já pratiquei;
 
 <div style="display: inline_block"><br/>
 
