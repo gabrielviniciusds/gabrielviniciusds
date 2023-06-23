@@ -1,9 +1,11 @@
-### Bem vindo ao meu perfil! Sou Gabriel Vinicius
+### Bem vindo ao meu perfil, sou Gabriel Vinicius.
 
 
 - 👨‍🎓 Estudante de Engenharia de Software. 
 - 👨‍💻 Aprendendo Java.
+- 🚀 Atualmente em um Bootcamp de AWS+Nexa.
 
+<hr>
 
 ![Gabriel Status](https://github-readme-stats.vercel.app/api?username=gabrielviniciusds&show_icons=true&theme=dark)
 
@@ -27,8 +29,7 @@
 
 </br>
 
-<div>
+<hr>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-vinicius-b9093b205/)
 
-</div>
