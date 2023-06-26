@@ -2,8 +2,8 @@
 
 
 - 👨‍🎓 Estudante de Engenharia de Software. 
-- 👨‍💻 Aprendendo Java.
-- 🚀 Atualmente em um Bootcamp de nuvem AWS.
+- 👨‍💻 Aprendendo.
+- 🚀 Atualmente em um Bootcamp de Potência Tech powered by iFood.
 
 <hr>
 
