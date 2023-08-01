@@ -2,8 +2,6 @@
 
 
 - 👨‍🎓 Estudante de Engenharia de Software. 
-- 👨‍💻 Aprendendo.
-- 🚀 Atualmente em um Bootcamp de Potência Tech powered by iFood.
 
 <hr>
 
