@@ -1,7 +1,7 @@
 ### Bem vindo ao meu perfil, sou Gabriel Vinicius.
 
 
-- Estudante de Engenharia de Software 5/8
+- Estudante de Engenharia de Software 6/8
 - Java (Básico)
 - C (Básico)
 - Experiências com automações
